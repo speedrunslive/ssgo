@@ -1,0 +1,4 @@
+ssgo
+====
+
+SSO for Go
